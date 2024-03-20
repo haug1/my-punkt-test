@@ -12,6 +12,7 @@
     "@oslokommune/punkt-assets": "^11.9.4",
     "@oslokommune/punkt-css": "^11.10.0",
     "@oslokommune/punkt-vue": "^11.10.0",
+    "sass": "^1.72.0",
     "vue": "^3.4.21"
   },
   "devDependencies": {

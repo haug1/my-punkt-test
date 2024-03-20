@@ -18,6 +18,9 @@ import { PktBackLink } from "@oslokommune/punkt-vue";
     <section>Masse bra innhold.</section>
   </main>
 </template>
-<style scoped>
-@import "@pkt/css/pkt.css";
+<style scoped lang="scss">
+@use "@pkt/scss/abstracts/variables" with (
+  $font-path: "@oslokommune/punkt-assets/dist/fonts"
+);
+@use "@pkt/scss/pkt";
 </style>
